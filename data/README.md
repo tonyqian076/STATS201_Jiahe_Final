@@ -29,7 +29,7 @@ All the variables, except the ones that are specially marked, are integers rangi
 
 This dataset can be utilized for various analyses and predictive modeling tasks related to lung cancer risk assessment and management.
 
-Data source (linking same dataset in two links): https://data.world/cancerdatahp/lung-cancer-data
+Data source (linking same dataset in two links): 
 https://www.kaggle.com/datasets/rishidamarla/cancer-patients-data
 
 
