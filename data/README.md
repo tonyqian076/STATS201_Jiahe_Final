@@ -1,4 +1,5 @@
 # Lung Cancer Dataset Description
+## Dataset description
 
 The dataset contains information about various factors related to lung cancer for different patients. Each row represents a different patient, and the columns represent different attributes or features related to lung cancer risk factors.
 All the variables, except the ones that are specially marked, are integers ranging from 1 to 9, with 9 the highest and 1 the lowest. Here are the specific definitions of the variables:  
