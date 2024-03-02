@@ -5,7 +5,7 @@
 
 - **Instructor**: Professor Luyao Zhang, Duke Kunshan University. She is super cool and really nice to students.
 
-## Research Summary: Predicting Lung Cancer Levels Using Environmental and Lifestyle Variables
+## Research Summary
 
 **Background:**
 Lung cancer remains a significant global health concern, with environmental and lifestyle factors playing crucial roles in its development. Understanding the interplay between these variables and lung cancer levels can aid in early detection, treatment planning, and prevention strategies. Machine learning techniques offer a promising avenue for integrating and analyzing complex datasets to predict lung cancer levels accurately.
