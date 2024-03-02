@@ -27,10 +27,24 @@ All the variables, except the ones that are specially marked, are integers rangi
 | Clubbing of Finger Nails  | Level of clubbing of finger nails.                    | Categorical| 1-9     |
 | Level                     | Intensity of the cancer (Low, Medium, or High).       | -          | -       |
 
+## Why this dataset
+This dataset can be helpful for your machine learning research for several reasons:
+
+Predictive Modeling: The dataset contains a variety of features (e.g., age, gender, environmental factors, medical history) along with a target variable (e.g., level of severity). This allows you to build predictive models to predict the severity level of a patient's condition based on their characteristics.
+
+Feature Engineering: You can perform feature engineering to create new features or transform existing ones that might be more informative for the predictive task. For example, you could derive new features from existing ones, such as creating a BMI (Body Mass Index) feature from the Obesity and Weight Loss features.
+
+Model Interpretability: By analyzing the relationships between the features and the target variable, you can gain insights into which factors are most influential in determining the severity level of a patient's condition. This can be valuable for understanding the underlying mechanisms and making informed decisions in medical settings.
+
+Evaluation and Comparison of Models: You can experiment with different machine learning algorithms and techniques to see which ones perform best on this dataset. This can help you identify the most effective approach for predicting severity levels and potentially generalize findings to similar medical datasets.
+
+Healthcare Applications: Understanding the factors that contribute to the severity of certain medical conditions can have practical implications for healthcare providers. Predictive models built from this dataset could be used to assist in diagnosis, treatment planning, and resource allocation.
+
+Overall, this dataset provides a rich source of information for conducting machine learning research in the healthcare domain, with potential applications in predictive modeling, feature engineering, model interpretation, and healthcare decision-making.
 
 This dataset can be utilized for various analyses and predictive modeling tasks related to lung cancer risk assessment and management.
 
-Data source (linking same dataset in two links): 
+# Data source: 
 https://www.kaggle.com/datasets/rishidamarla/cancer-patients-data
 
 
