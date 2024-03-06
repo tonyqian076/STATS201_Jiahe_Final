@@ -23,3 +23,8 @@ The predictive model developed in this research has several potential applicatio
 
 # content
 - [Data](https://github.com/Rising-Stars-by-Sunshine/STATS201_Jiahe_Final/tree/main/Code)
+
+# Meta Data Information
+| Data Files | Data Type | Data Content|
+| ---------- | -----------| ----------- |
+| [raw data.csv](https://github.com/Rising-Stars-by-Sunshine/STATS201_Jiahe_Final/blob/main/data/raw%20data.csv)| queried data | lung cancer data |
