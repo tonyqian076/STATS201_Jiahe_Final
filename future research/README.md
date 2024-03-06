@@ -1,4 +1,4 @@
-# **Research Summary using Causal Inference Methods:**
+## **Research Summary using Causal Inference Methods:**
 
 *Background/Motivation:*
 Causal inference methods are essential for understanding the causal relationships between variables, particularly in complex systems like healthcare. In the context of lung cancer research, causal inference techniques can help elucidate the causal pathways linking environmental and lifestyle factors to lung cancer incidence and severity.
@@ -20,7 +20,7 @@ The study's contributions lie in advancing our understanding of the causal relat
 - Velásquez García, H. A., Sobolev, B. G., Gotay, C. C., Wilson, C. M., Lohrisch, C. A., Lai, A. S., Aronson, K. J., & Spinelli, J. J. (2018). Mammographic non-dense area and breast cancer risk in postmenopausal women: A causal inference approach in a case–control study. Breast Cancer Research and Treatment, 170(1), 159-168. https://doi.org/10.1007/s10549-018-4737-7
 - Yarmolinsky, J., Wade, K. H., Richmond, R. C., Langdon, R. J., Bull, C. J., Tilling, K. M., Relton, C. L., Lewis, S. J., Davey Smith, G., & Martin, R. M. (2018). Causal inference in cancer epidemiology: What is the role of mendelian randomization? Cancer Epidemiology, Biomarkers & Prevention, 27(9), 995-1010. https://doi.org/10.1158/1055-9965.EPI-17-1177
 
-**Research Summary using Optimization Methods:**
+## **Research Summary using Optimization Methods:**
 
 *Background/Motivation:*
 Optimization methods are instrumental in healthcare research for optimizing treatment strategies, resource allocation, and healthcare delivery. In the context of lung cancer research, optimization techniques can be applied to optimize screening protocols, treatment regimens, and resource allocation for improved patient outcomes.
