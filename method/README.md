@@ -21,6 +21,7 @@
 - **Algorithm:** Logistic Regression is selected as the machine learning algorithm for testing the hypothesis. Logistic Regression is well-suited for binary classification tasks, making it appropriate for predicting the levels of lung cancer, which can be categorized as low or high. Additionally, Logistic Regression provides interpretable results, allowing for the identification of significant predictors and the estimation of their effects on the outcome variable. Therefore, it is a suitable choice for examining the relationship between environmental and lifestyle variables and lung cancer severity.
 
 ### Flowchart
+![image](method/method markmap.png)
 
 ### Data Source
 - https://www.kaggle.com/datasets/rishidamarla/cancer-patients-data
