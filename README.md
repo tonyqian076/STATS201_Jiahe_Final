@@ -1,5 +1,17 @@
 # Predictive Modeling of Lung Cancer Risk: Integrating Machine Learning with Environmental and Lifestyle Factors
 
+# content
+- [Code](https://github.com/Rising-Stars-by-Sunshine/STATS201_Jiahe_Final/tree/main/Code)
+  - queried code
+  - processed code
+- [Literature](https://github.com/Rising-Stars-by-Sunshine/STATS201_Jiahe_Final/tree/main/Literature)
+- [Poster & Project Summary](https://github.com/Rising-Stars-by-Sunshine/STATS201_Jiahe_Final/tree/main/Poster%20and%20Project%20Summary)
+- [data](https://github.com/Rising-Stars-by-Sunshine/STATS201_Jiahe_Final/tree/main/data)
+- [method](https://github.com/Rising-Stars-by-Sunshine/STATS201_Jiahe_Final/tree/main/method)
+- [result](https://github.com/Rising-Stars-by-Sunshine/STATS201_Jiahe_Final/tree/main/result)
+- [spotlight](https://github.com/Rising-Stars-by-Sunshine/STATS201_Jiahe_Final/tree/main/spotlight)
+- [future research](https://github.com/Rising-Stars-by-Sunshine/STATS201_Jiahe_Final/tree/main/furture%20research)
+
 ## Author
 - **Author**: Jiahe Qian, Duke Kunshan University. Major in Global Health & Public Policy.
 
@@ -21,8 +33,7 @@ The predictive model developed in this research has several potential applicatio
 ## Acknowledgments
 - I want to express my heartfelt appreciation to Professor Luyao (Sunshine) Zhang for her invaluable guidance and insightful instruction throughout the STATS 201 machine learning for social science course. Her mentorship and assistance were crucial in molding the progress of this project. Furthermore, I am grateful to my fellow classmates in STATS 201 for cultivating a collaborative atmosphere that significantly enhanced my learning experience.
 
-# content
-- [Data](https://github.com/Rising-Stars-by-Sunshine/STATS201_Jiahe_Final/tree/main/Code)
+
 
 # Meta Data Information
 | Data Files | Data Type | Data Content|
@@ -32,4 +43,3 @@ The predictive model developed in this research has several potential applicatio
 # poster
 ![image](Poster%20and%20Project%20Summary/poster.png)
 
-[author](https://github.com/Rising-Stars-by-Sunshine/STATS201_Jiahe_Final/tree/main?tab=readme-ov-file#author)
