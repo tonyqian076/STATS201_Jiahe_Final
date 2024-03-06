@@ -1,4 +1,4 @@
-#**Research Summary using Causal Inference Methods:**
+# **Research Summary using Causal Inference Methods:**
 
 *Background/Motivation:*
 Causal inference methods are essential for understanding the causal relationships between variables, particularly in complex systems like healthcare. In the context of lung cancer research, causal inference techniques can help elucidate the causal pathways linking environmental and lifestyle factors to lung cancer incidence and severity.
