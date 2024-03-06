@@ -37,6 +37,7 @@ The evaluation criteria for assessing the model's performance will include accur
 
 ### Flowchart
 ![image](https://github.com/Rising-Stars-by-Sunshine/STATS201_Jiahe_Final/blob/5c496a810e37c543953113f5c17ac95f0a6fcd5c/method/method%20markmap.png)
+![image](https://github.com/Rising-Stars-by-Sunshine/STATS201_Jiahe_Final/blob/5c496a810e37c543953113f5c17ac95f0a6fcd5c/method/ml.png)
 
 ### Data Source
 - https://www.kaggle.com/datasets/rishidamarla/cancer-patients-data
