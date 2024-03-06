@@ -31,3 +31,5 @@ The predictive model developed in this research has several potential applicatio
 
 # poster
 ![image](Poster%20and%20Project%20Summary/poster.png)
+
+[author](https://github.com/Rising-Stars-by-Sunshine/STATS201_Jiahe_Final/tree/main?tab=readme-ov-file#author)
