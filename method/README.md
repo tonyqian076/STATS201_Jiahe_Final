@@ -37,7 +37,9 @@ The evaluation criteria for assessing the model's performance will include accur
 
 ### Flowchart
 ![image](https://github.com/Rising-Stars-by-Sunshine/STATS201_Jiahe_Final/blob/5c496a810e37c543953113f5c17ac95f0a6fcd5c/method/method%20markmap.png)
-![image](https://github.com/Rising-Stars-by-Sunshine/STATS201_Jiahe_Final/blob/5c496a810e37c543953113f5c17ac95f0a6fcd5c/method/ml.png)
+Fig 1. Research workflow
+![image](https://github.com/Rising-Stars-by-Sunshine/STATS201_Jiahe_Final/blob/e4961bd7820c2e5b6bc8859fabb7c5b2f1d0cc13/method/ml.png)
+Fig 2. Machine Learning workflow
 
 ### Data Source
 - https://www.kaggle.com/datasets/rishidamarla/cancer-patients-data
