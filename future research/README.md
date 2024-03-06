@@ -16,6 +16,11 @@ The potential results include identifying specific environmental and lifestyle f
 *Contributions:*
 The study's contributions lie in advancing our understanding of the causal relationships between environmental/lifestyle factors and lung cancer outcomes. By leveraging causal inference methods, the research can inform targeted interventions and public health policies aimed at reducing the burden of lung cancer.
 
+*workflow*
+![image](https://github.com/Rising-Stars-by-Sunshine/STATS201_Jiahe_Final/blob/99901c8769ac2aa5f61b52ec66b33f3c80ba9196/future%20research/causal_inference.png)
+Fig 1. Workflow for causal inference research
+
+
 *Reference*
 - Velásquez García, H. A., Sobolev, B. G., Gotay, C. C., Wilson, C. M., Lohrisch, C. A., Lai, A. S., Aronson, K. J., & Spinelli, J. J. (2018). Mammographic non-dense area and breast cancer risk in postmenopausal women: A causal inference approach in a case–control study. Breast Cancer Research and Treatment, 170(1), 159-168. https://doi.org/10.1007/s10549-018-4737-7
 - Yarmolinsky, J., Wade, K. H., Richmond, R. C., Langdon, R. J., Bull, C. J., Tilling, K. M., Relton, C. L., Lewis, S. J., Davey Smith, G., & Martin, R. M. (2018). Causal inference in cancer epidemiology: What is the role of mendelian randomization? Cancer Epidemiology, Biomarkers & Prevention, 27(9), 995-1010. https://doi.org/10.1158/1055-9965.EPI-17-1177
@@ -37,6 +42,10 @@ The potential results include optimized lung cancer screening protocols and trea
 
 *Contributions:*
 The study's contributions lie in leveraging optimization methods to improve lung cancer screening and treatment strategies. By optimizing resource allocation and treatment decision-making, the research can enhance patient outcomes and contribute to more efficient healthcare delivery in the context of lung cancer management.
+
+*workflow
+![image](https://github.com/Rising-Stars-by-Sunshine/STATS201_Jiahe_Final/blob/99901c8769ac2aa5f61b52ec66b33f3c80ba9196/future%20research/q-leanring.png)
+Fig 2. workflow for q-learning research
 
 *Reference*
 - Hrinivich, W. T., & Lee, J. (2020). Artificial intelligence‐based radiotherapy machine parameter optimization using reinforcement learning. Medical Physics (Lancaster), 47(12), 6140-6150. https://doi.org/10.1002/mp.14544
