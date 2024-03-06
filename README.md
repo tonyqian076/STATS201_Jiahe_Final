@@ -9,14 +9,32 @@ This research explores the predictive power of logistic regression in forecastin
   - processed code
 - [Literature](https://github.com/Rising-Stars-by-Sunshine/STATS201_Jiahe_Final/tree/main/Literature)
 - [Poster & Project Summary](https://github.com/Rising-Stars-by-Sunshine/STATS201_Jiahe_Final/tree/main/Poster%20and%20Project%20Summary)
-- [data](https://github.com/Rising-Stars-by-Sunshine/STATS201_Jiahe_Final/tree/main/data)
-- [method](https://github.com/Rising-Stars-by-Sunshine/STATS201_Jiahe_Final/tree/main/method)
   - background
   - research question
   - applicatoin scenario
   - method
   - results
   - practical impact
+- [data](https://github.com/Rising-Stars-by-Sunshine/STATS201_Jiahe_Final/tree/main/data)
+- [method](https://github.com/Rising-Stars-by-Sunshine/STATS201_Jiahe_Final/tree/main/method)
+  - Objective
+  - Significance
+  - Operational Measures:
+  - Variables: Identify the dependent (Y) and independent (X) variables.
+  - Data Type: Specify whether your dataset is cross-sectional, time-series, or panel data.
+  - Hypothesis Development
+    - Prediction Hypothesis
+    - Justification: Provide a rationale for this hypothesis.
+    -  Machine Learning Algorithm Selection
+  - The Machine Learning Workflow
+   - Model Development
+   - Data Processing
+   - Results Presentation
+   - Training and Testing
+   - Data Visualization
+  - Model Evaluation:
+   - Evaluation Criteria
+   - Iterative Improvement
 - [result](https://github.com/Rising-Stars-by-Sunshine/STATS201_Jiahe_Final/tree/main/result)
 - [spotlight](https://github.com/Rising-Stars-by-Sunshine/STATS201_Jiahe_Final/tree/main/spotlight)
 - [future research](https://github.com/Rising-Stars-by-Sunshine/STATS201_Jiahe_Final/tree/main/furture%20research)
